@@ -1,0 +1,12 @@
+__pycache__/
+tcl_work_dir/tcl_out/
+tcl_work_dir/temp/
+*.exe
+*.out
+*.o
+cppsim/evaluator
+cppsim/evaluator8
+cppsim/evaluator16
+cppsim/evaluator32
+/.vscode
+results/img/

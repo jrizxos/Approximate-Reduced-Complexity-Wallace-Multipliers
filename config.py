@@ -3,7 +3,7 @@ import random
 random.seed(42)
 
 # Select Mode to quickly change confing, 8, 16, 32 selects the correct preconfigured constants for 8x8, 16x16 or 32x32 ARCWMS, None for your custom setting
-MODE = 32 # 8 16 32 None
+MODE = 8 # 8 16 32 None
 
 
 # Genetic algorithm parameters setting:

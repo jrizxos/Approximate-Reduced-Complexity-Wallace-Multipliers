@@ -1,2 +1,2 @@
 # Approximate Reduced Complexity Wallace Multipliers
-Coming soon: a wiki for this repository explaining purpose usage and documentation.
+Read the [wiki](https://github.com/jrizxos/Approximate-Reduced-Complexity-Wallace-Multipliers/wiki) attached to this repository for purpose, usage and documentation.
